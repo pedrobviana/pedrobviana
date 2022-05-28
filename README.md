@@ -1,0 +1,4 @@
+- **(👋)** Eu me chamo Pedro e estou iniciando nesse ramo da programacão 
+- **(💼)** Junior
+- **(📖)** Atualmente estudando ☕ **Java**
+- **(📅)** 16 Anos
